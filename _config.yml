@@ -119,9 +119,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kim-sanghyuk"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sanghyukkim@kaist.ac.kr"
 
 # Site Footer
 footer:
@@ -129,10 +126,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kim-sanghyuk"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sanghyukkim@kaist.ac.kr"
-      # url:
 
 
 # Reading Files
