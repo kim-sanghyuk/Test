@@ -1,7 +1,3 @@
-# **[May 18, 2023] Outstanding Paper Award - KSME CAE and Applied Mechanics Division**
-
-
-
 I'm excited to share that on May 18, 2023, I received the Outstanding Paper Award from the KSME CAE and Applied Mechanics Division. It's been a rewarding experience, and I'm grateful for the recognition! Looking forward to pushing the boundaries even further. Stay tuned!
 
 

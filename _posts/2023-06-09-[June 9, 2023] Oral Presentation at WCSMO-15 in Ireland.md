@@ -1,5 +1,3 @@
-# **[June 9, 2023] Oral Presentation at WCSMO-15 in Ireland**
-
 On June 9, 2023, I had the opportunity to deliver an oral presentation at the 15th World Congress of Structural and Multidisciplinary Optimization (WCSMO-15) held in Cork, Ireland. The presentation focused on my research titled "Projected Variable Three-Term Conjugate Gradient Algorithm to Improve the Generalization Performance of Neural Network Training." It was an honor to share my work at such a prestigious event!
 
 ![KakaoTalk_20240917_174431826](C:\Users\성공의 냄새\Documents\GitHub\kim-sanghyuk.github.io\images\2023-06-09-WCSMO-15\KakaoTalk_20240917_174431826.jpg)
