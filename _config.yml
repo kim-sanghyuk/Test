@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Sanghyuk Kim"
 title_separator          : "-"
-subtitle                 : "Ph.D. Student at KAIST, School of Mechanical Engineering"
+subtitle                 : "Ph.D. Student at KAIST, Mechanical Engineering"
 name                     : "Sanghyuk Kim"
 description              : "Ph.D. student specializing in optimization algorithms, AI, and neural networks."
 url                      : "https://kim-sanghyuk.github.io"
