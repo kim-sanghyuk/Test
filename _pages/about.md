@@ -1,8 +1,10 @@
 ---
-layout: single
-title: "About me"
+layout: page
+title: "About"
 author: "Sanghyuk Kim"
 permalink: /about/
+published: true
+
 ---
    
 # 👨‍🏫 Sanghyuk Kim, Ph.D. Student
