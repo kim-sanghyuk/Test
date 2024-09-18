@@ -24,7 +24,7 @@ published: true
 
 4. Lee TH*, **Kim S** (2023) Influences of Hyperparameters at Optimization Algorithms in Artificial Neural Network Training. *<u>KSME CAE & Applied Mechanics Division 2023 Spring Conference</u>*, May 17–20, 2023, Busan, Korea.
 
-3. Lee TH, Kim S, **Kim H** (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
+3. Lee TH, **Kim S**, Kim H (2022) Issues on optimization algorithms in training artificial neural networks. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
 
 2. **Kim S**, Kim H, Lee TH* (2022) Adaptive three-term conjugate gradient algorithm with stochastic noise for escaping local minima in training ANNs. *<u>KSME 2022 Conference</u>*, November 9–12, 2022, Jeju, Korea.
    
