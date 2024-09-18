@@ -1,6 +1,5 @@
-source "https://rubygems.org"
-gemspec
+source 'https://rubygems.org'
 
-gem "webrick", "~> 1.8"
-
-gem "tzinfo", "~> 2.0"
+gem 'jekyll'
+gem 'minimal-mistakes-jekyll'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
