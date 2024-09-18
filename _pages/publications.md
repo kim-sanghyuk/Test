@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publications"
-author: "Hansu Kim"
+author: "Sanghyuk Kim"
 permalink: /publications/
 ---
    
