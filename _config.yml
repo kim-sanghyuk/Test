@@ -21,7 +21,7 @@ title: "Sanghyuk Kim"
 title_separator: "|"
 subtitle: "Ph.D. Student at KAIST, Mechanical Engineering"
 name: "Sanghyuk Kim"
-description: "Ph.D. student specializing in spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms."
+description: "Ph.D. Student specializing in spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms."
 url: "https://kim-sanghyuk.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 author:
   name: "Sanghyuk Kim"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Ph.D. student at KAIST in the Department of Mechanical Engineering, with research interests in spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms."
+  bio: "Ph.D. Student at KAIST in the Department of Mechanical Engineering, with research interests in spatiotemporal surrogate modeling, design optimization, deep learning, machine learning, and optimization algorithms."
   location: "Daejeon, Korea"
   email: "sanghyukkim@kaist.ac.kr"
   links:
