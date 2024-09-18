@@ -18,8 +18,6 @@ published: true
 1. **Kim S**, Kim H, Lee TH* (2023) Regularized variable three-term conjugate gradient method to improve the generalization performance of neural network training. *<u>15th World Congress of Structural and Multidisciplinary Optimization</u>*, June 5–9, 2023, Cork, Ireland.
    
 ***
-2. **Kim H**, Lee TH* (2022) Design-target-based optimization using input variable selection and penalty-Lagrange multiplier for high-dimensional design problems. *<u>2022 KSCM Conference on Computational Mechanics</u>*, June 22–24, 2022, Gangwon, Korea 
-
    
 # 🗣️ Korean Conference Papers   
 5. **Kim S**, Lee TH* (2023) Influences of Data and Network Characteristics on Optimization Algorithm and Generalization Performance. *<u>2023 KSCM Conference on Computational Mechanics</u>*, June 29–July 1, 2023, Gangwon, Korea 
