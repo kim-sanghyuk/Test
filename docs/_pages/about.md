@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "About"
+layout: single
+title: "About me"
 author: "Sanghyuk Kim"
 permalink: /about/
 ---
