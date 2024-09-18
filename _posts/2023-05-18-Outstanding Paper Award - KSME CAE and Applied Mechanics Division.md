@@ -2,4 +2,7 @@ I'm excited to share that on May 18, 2023, I received the Outstanding Paper Awar
 
 
 
-<img src="C:\Users\성공의 냄새\Documents\GitHub\kim-sanghyuk.github.io\images\2023-05-18-KSME_award\IMG_5208.JPG" alt="IMG_5208" style="zoom: 10%;" /><img src="C:\Users\성공의 냄새\Documents\GitHub\kim-sanghyuk.github.io\images\2023-05-18-KSME_award\20230520_KSME_우수논문상_김상혁.jpg" alt="20230520_KSME_우수논문상_김상혁" style="zoom:50%;" />
+<img src="https://github.com/kim-sanghyuk/kim-sanghyuk.github.io/blob/master/images/20230518_KSME_%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81_%EA%B9%80%EC%83%81%ED%98%81.jpg" style="zoom: 10%;" /><img src="https://github.com/kim-sanghyuk/kim-sanghyuk.github.io/blob/master/images/20230518_KSME_%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81_%EA%B9%80%EC%83%81%ED%98%81_%EC%88%98%EC%83%81.JPG" style="zoom:50%;" />
+
+
+
